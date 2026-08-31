@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 3889 games in 326 unique mapping groups
+# 3904 games in 326 unique mapping groups
 # Versions: V2
 #
 # Button mapping: MiSTercade -> Xbox
@@ -875,6 +875,9 @@
 # 2-button: rygar
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,lefttrigger:b11,start:b9,back:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:rygar,platform:MiSTer
 
+# 3-button: s1945
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,lefttrigger:b11,start:b9,back:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:s1945,platform:MiSTer
+
 # 4-button (punches+kicks): sarge*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,y:b3,start:b9,back:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:sarge*,platform:MiSTer
 
@@ -1580,6 +1583,18 @@
 # 2-button: S.O.S.*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,start:b9,back:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:S.O.S.*,platform:MiSTer
 
+# 3-button: s1945a
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,lefttrigger:b11,start:b9,back:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:s1945a,platform:MiSTer
+
+# 3-button: s1945j
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,lefttrigger:b11,start:b9,back:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:s1945j,platform:MiSTer
+
+# 3-button: s1945k
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,lefttrigger:b11,start:b9,back:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:s1945k,platform:MiSTer
+
+# 3-button: s1945n*
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,lefttrigger:b11,start:b9,back:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:s1945n*,platform:MiSTer
+
 # 2-button: sagaia
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,lefttrigger:b11,start:b9,back:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:sagaia,platform:MiSTer
 
@@ -1654,6 +1669,9 @@
 
 # 2-button: teljan
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,lefttrigger:b10,start:b9,back:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:teljan,platform:MiSTer
+
+# 3-button: tengai*
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,lefttrigger:b11,start:b9,back:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:tengai*,platform:MiSTer
 
 # 2-button: terraf*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,lefttrigger:b11,start:b9,back:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:terraf*,platform:MiSTer
@@ -2195,6 +2213,9 @@
 # 2-button: gunball
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,lefttrigger:b11,start:b9,back:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:gunball,platform:MiSTer
 
+# 3-button: gunbird
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,lefttrigger:b11,start:b9,back:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:gunbird,platform:MiSTer
+
 # 2-button: gunforc*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,lefttrigger:b11,start:b9,back:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:gunforc*,platform:MiSTer
 
@@ -2671,6 +2692,9 @@
 
 # directions only: smashtv*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b9,guide:b9,guide2:h0.4,mistercore:smashtv*,platform:MiSTer
+
+# 3-button: sngkace*
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,lefttrigger:b11,start:b9,back:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:sngkace*,platform:MiSTer
 
 # 1-button: snowpac
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,lefttrigger:b11,start:b9,back:b9,menuesc:b1,guide:b9,guide2:h0.4,mistercore:snowpac,platform:MiSTer
@@ -3746,6 +3770,12 @@
 # 3-button: gunbird2*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,lefttrigger:b10,start:b9,back:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:gunbird2*,platform:MiSTer
 
+# 3-button: gunbirdj
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,lefttrigger:b11,start:b9,back:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:gunbirdj,platform:MiSTer
+
+# 3-button: gunbirdk
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,lefttrigger:b11,start:b9,back:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:gunbirdk,platform:MiSTer
+
 # 3-button: gunfight
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,start:b9,back:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:gunfight,platform:MiSTer
 
@@ -4405,6 +4435,9 @@
 
 # 3-button: samesame*
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,lefttrigger:b11,start:b9,back:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:samesame*,platform:MiSTer
+
+# 3-button: samuraia*
+03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,lefttrigger:b11,start:b9,back:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:samuraia*,platform:MiSTer
 
 # 3-button: sarukani
 03000000d01600005813000011010000,MiSTercade V2,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,lefttrigger:b10,start:b9,back:b9,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:sarukani,platform:MiSTer
